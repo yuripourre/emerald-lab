@@ -1,8 +1,6 @@
 ![Emerald Lab Logo](https://raw.githubusercontent.com/yuripourre/emerald-lab/master/images/el-logo.png)
 
-#### Emerald Lab
-
-Emerald Lab is a Microscope Simulator useful to teach biology and test image processing algorithms with a controlled (free of noise) environment.
+*Emerald Lab* is a Microscope Simulator useful to teach biology and test image processing algorithms with a controlled (free of noise) environment.
 
 Examples:
 
